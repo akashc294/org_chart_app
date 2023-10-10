@@ -1,0 +1,28 @@
+employee_id,name,phone,email,team,reporting_manager,reporting_manager_id,designation
+101,Arthur D.Levinson,9130457490,arthor@yahoo.ca,,,1,Chairman
+102,Tim Cook,9130457491,timcook@apple.com,,Arthur D.Levinson,101,CEO
+103,Jeff Williams,9130457492,rnelson@outlook.com,,Tim Cook,102,COO
+104,Chantel Gaines,9130457493,themer@hotmail.com,Marketing,Jeff Williams,103,CMO
+105,Marc Golden,9130457494,techie@yahoo.ca,Engineering,Jeff Williams,103,CTO
+106,Troy Quinones,9130457495,jschauma@mac.com,Finance,Jeff Williams,103,CFO
+107,Marina Pham,9130457496,horrocks@me.com,Marketing,Chantel Gaines,104,Head Of Content
+108,Kamryn Bradford,9130457497,ianbuck@hotmail.com,Marketing,Chantel Gaines,104,Head Of SEO
+109,Donte Rendon,9130457498,isotopian@aol.com,Marketing,Chantel Gaines,104,Customer Specialist
+110,Shaylee Truong,9130457499,scato@comcast.net,Engineering,Marc Golden,105,Project Manager
+112,Joan Ferrara,9130457501,martyloo@sbcglobal.net,Engineering,Shaylee Truong,110,UX Designer
+113,Kameron Hannon,9130457502,louise@yahoo.com,Engineering,Joan Ferrara,112,Jr. UX Designer
+114,Amiyah Crabtree,9130457503,webteam@yahoo.com,Engineering,Shaylee Truong,110,Sr. Frontend Developer
+115,Jair Gallagher,9130457504,greear@live.com,Engineering,Amiyah Crabtree,114,Jr. Frontend Developer
+116,Caleigh Costello,9130457505,jaxweb@icloud.com,Engineering,Amiyah Crabtree,114,Jr. Frontend Develop
+118,Belinda Dwyer,9130457507,oevans@live.com,Engineering,Shaylee Truong,110,Sr. Backend Developer
+119,Maia Girard,9130457508,bryanw@icloud.com,Engineering,Belinda Dwyer,118,Jr. Backend Developer
+120,Justine Sommer,9130457509,natepuri@mac.com,Engineering,Belinda Dwyer,118,Jr. Backend Developer
+140,Margarita Cisneros,9130457529,forsberg@hotmail.com,Finance,Troy Quinones,106,VP of Finance
+141,Diane Fournier,9130457530,houle@optonline.net,Finance,Margarita Cisneros,140,Finance Manager
+142,Raquel Hein,9130457531,cremonini@att.net,Finance,Margarita Cisneros,140,Controller
+143,Cannon Faulk,9130457532,madanm@outlook.com,Finance,Margarita Cisneros,140,Treasurer
+144,Makayla Marsh,9130457533,maratb@hotmail.com,Finance,Raquel Hein,142,Tax Manager
+145,Essence Grimes,9130457534,hmbrand@gmail.com,Finance,Raquel Hein,142,Accountants
+146,Michelle Qualls,9130457535,parrt@msn.com,Finance,Essence Grimes,145,Accounts payable
+147,Dylon Brant,9130457536,seano@mac.com,Finance,Diane Fournier,141,Financial Analyst
+148,Kathrine Olivo,9130457537,raines@mac.com,Finance,Dylon Brant,147,Finance Assistant
